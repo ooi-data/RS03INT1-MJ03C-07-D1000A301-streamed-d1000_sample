@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03INT1-MJ03C-07-D1000A301-streamed-d1000_sample
-last_request: '2021-12-01T21:54:57.762679Z'
+last_request: '2021-12-04T00:34:07.557022Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03INT1-MJ03C-07-D1000A301-streamed-d1000_sample/main/history/response.json
-status: success
+status: pending
