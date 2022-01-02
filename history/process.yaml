@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03INT1-MJ03C-07-D1000A301-streamed-d1000_sample
 data_stream: RS03INT1-MJ03C-07-D1000A301-streamed-d1000_sample
-end_date: '2021-12-01T21:54:38.563Z'
-last_updated: '2021-12-22T03:53:04.940424'
+end_date: '2022-01-01T03:07:01.889Z'
+last_updated: '2022-01-02T18:40:56.613359Z'
 start_date: '2016-06-21T22:19:02.197Z'
-status: success
+status: pending
